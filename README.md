@@ -1,0 +1,2 @@
+# boring-mcp
+Boring MCP
